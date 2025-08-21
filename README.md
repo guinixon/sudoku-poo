@@ -1,6 +1,4 @@
-# Projeto Sudoku POO - Instruções para Agente de IA
-
-Este documento fornece orientação para agentes de codificação de IA que trabalham no projeto Sudoku POO (Programação Orientada a Objetos).
+# Projeto Sudoku POO
 
 ## Visão Geral da Arquitetura
 
